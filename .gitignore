@@ -1,3 +1,13 @@
+# Custom
+images/
+transfer_style_images/
+transfer_style_images_2/
+venv/
+*.npy
+*.png
+*.zip
+*.h5
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
